@@ -4,8 +4,6 @@
  * Add your name as an author and the date!
  */
 package deliverable_1;
-
-import ca.sheridancollege.project.Player;
 import java.util.ArrayList;
 
 /**
