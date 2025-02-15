@@ -7,7 +7,7 @@ A **console-based** implementation of the classic **War** card game in Java. Two
 - 🎮 Two-player gameplay
 - 🔄 Automated card shuffling and dealing
 - ⚔️ "War" scenarios handled correctly
-- 📜 Object-Oriented Design (OOP) using Java
+- 📜 Object-Oriented Design (OOP) with high cohesion and loose coupling using Java
 
 ## 🛠️ How to Run
 1. Clone the repository:
