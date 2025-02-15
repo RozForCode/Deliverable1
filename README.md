@@ -11,6 +11,6 @@ A **console-based** implementation of the classic **War** card game in Java. Two
 
 ## 🛠️ How to Run
 1. Clone the repository:
-   git clone https://github.com/RozForCode/WarGame.git
+   git clone https://github.com/RozForCode/Deliverable1.git
 
 
