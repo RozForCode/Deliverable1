@@ -6,7 +6,7 @@
       </p>
    </div>
    <div style="flex: 1; text-align: center;">
-      <img src="https://raw.githubusercontent.com/user-attachments/assets/main/7e2d9b0f-ec3f-430e-940c-02830182c99c" alt="War Card Game" style="width: 500px; height: auto;" />
+      <img src="https://github.com/user-attachments/assets/7e2d9b0f-ec3f-430e-940c-02830182c99c" alt="War Card Game" style="width: 500px; height: auto;" />
    </div>
 </div>
 
