@@ -8,8 +8,7 @@ package deliverable_1;
 /**
  * A class that models each Player in the game. Players have an identifier, which should be unique.
  *
- * @author dancye
- * @author Paul Bonenfant Jan 2020
+ * @author Navrose March 4 2025
  */
 public abstract class Player {
 
