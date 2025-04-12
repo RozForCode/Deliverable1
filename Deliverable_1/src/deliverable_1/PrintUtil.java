@@ -30,7 +30,7 @@ public class PrintUtil {
     public void printPlayerStatus(GamePlayer playerOne, GamePlayer playerTwo) {
         int header1 = playerOne.getHand().handSize();
         int header2 = playerTwo.getHand().handSize();
-        System.out.printf("Player Status -> %-1s has %-1d %-10s %-1s has %-1d %-20s \n", playerOne.getName(), header1,"cards", playerTwo.getName(), header2,"cards");
+        System.out.printf("/n/nPlayer Status -> %-1s has %-1d %-10s %-1s has %-1d %-20s \n", playerOne.getName(), header1,"cards", playerTwo.getName(), header2,"cards");
     }
     public void symbolMeaning(){
         System.out.println("D --> Diamonds ");

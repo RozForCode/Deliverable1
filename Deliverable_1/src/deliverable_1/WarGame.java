@@ -6,6 +6,14 @@ package deliverable_1;
 
 import java.util.List;
 import java.util.Scanner;
+/**
+ * This project is an interactive implementation of the classic card game 'War'. 
+ * It features two players who press Enter to advance through rounds, comparing cards 
+ * and handling the 'War' tie-breaking scenario until one player wins."
+ * The program handles comparisons, awards cards, executes the
+ * 'War' protocol during ties, and displays progress until a winner emerges."
+ * 
+ */
 
 /**
  *
@@ -31,7 +39,7 @@ public class WarGame extends Game{
         dealCards(player1.getHand());
         dealCards(player2.getHand());
         
-        int maxRounds = 24;
+        int maxRounds = 20;
         Player winner = null;
         Scanner round = new Scanner(System.in);
         
@@ -133,7 +141,7 @@ public class WarGame extends Game{
                     return false;
                 }
                 pot.addCardsToTop(warPlayerTwoPot);
-
+                System.out.println("War Time!!");
                 return battle(playerOne, playerTwo, pot);
             }
             case 1 -> {
